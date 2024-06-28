@@ -5,7 +5,7 @@ Este projeto implementa um Variational Autoencoder (VAE) utilizando PyTorch e o 
 ## Estrutura do Código
 
 - `vae-mnist.py`: Contém a definição do modelo VAE, funções de treinamento, funções de plotagem e o script principal para executar o treinamento e avaliação.
-
+- `vae-mnist.ipynb`: Versão em notebook do código `vae-mnist.py`
 ## Dependências
 
 As dependências do projeto estão listadas no arquivo `requirements.txt`. Para instalá-las, execute o comando:
